@@ -18,7 +18,7 @@ This project was built from scratch to practically master and demonstrate the co
 * Event-Driven UI Binding
 
 ## 📚 Credits & Acknowledgments
-This repository is a hands-on code implementation based on the excellent architectural breakdown and guidelines from this technical article: [Habr - Gameplay Ability System Guide](https://github.com/midding12-afk/GAS-Simple-Example).
+This repository is a hands-on code implementation based on the excellent architectural breakdown and guidelines from this technical article: [Habr - Gameplay Ability System Guide](https://habr.com/ru/articles/871416/).
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
